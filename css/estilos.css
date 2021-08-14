@@ -354,3 +354,12 @@ footer .redes-sociales .contenedor .instagram:hover {
 .body-msj-success {
     background-color: #323068;
 }
+
+
+/* Iconos - Herramientas */
+
+#icon-h {
+    width: 40px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
